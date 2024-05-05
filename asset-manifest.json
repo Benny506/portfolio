@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f6b3df6d.css",
-    "main.js": "/portfolio/static/js/main.e39d7273.js",
+    "main.css": "/portfolio/static/css/main.916826ba.css",
+    "main.js": "/portfolio/static/js/main.9cb1bc00.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/portfolio_beatbank.PNG": "/portfolio/static/media/portfolio_beatbank.d1ccffe876ef49c066e7.PNG",
     "static/media/portfolio_library.PNG": "/portfolio/static/media/portfolio_library.67481293bc00ec639647.PNG",
     "static/media/porfolio_ucth.PNG": "/portfolio/static/media/porfolio_ucth.01e6aa364dccaced7868.PNG",
     "static/media/FiraCode.ttf": "/portfolio/static/media/FiraCode.195a5963e89a1ff0cf03.ttf",
+    "static/media/Ephesis.ttf": "/portfolio/static/media/Ephesis.9d76794a944a1f234087.ttf",
     "static/media/projects_habithack.jpeg": "/portfolio/static/media/projects_habithack.e670574e8c02f93229f9.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.f6b3df6d.css.map": "/portfolio/static/css/main.f6b3df6d.css.map",
-    "main.e39d7273.js.map": "/portfolio/static/js/main.e39d7273.js.map",
+    "main.916826ba.css.map": "/portfolio/static/css/main.916826ba.css.map",
+    "main.9cb1bc00.js.map": "/portfolio/static/js/main.9cb1bc00.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6b3df6d.css",
-    "static/js/main.e39d7273.js"
+    "static/css/main.916826ba.css",
+    "static/js/main.9cb1bc00.js"
   ]
 }
