@@ -17,6 +17,11 @@ code {
   src: url("./assets/fonts/FiraCode.ttf");
 }
 
+@font-face {
+  font-family: "Ephesis";
+  src: url("./assets/fonts/Ephesis.ttf");
+}
+
 ::-webkit-scrollbar {
   width: 3px;
   height: 3px;

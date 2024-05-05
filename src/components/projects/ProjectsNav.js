@@ -19,7 +19,20 @@ const webProjects = [
         name: 'utch',
         Icon: () => <img src={utchLogo} className='col-lg-12 col-md-7 col-7' />,
         path: '/projects/single-project/utch'
-    },    
+    }, 
+    {
+        name: 'beatbank',
+        Icon: () =>   
+            <h2 style={{
+                fontFamily: 'Ephesis',
+                fontSize: 34,
+                fontWeight: 700,
+                color: "#E97F18" 
+            }}>
+                B
+            </h2>,
+        path: '/projects/single-project/beatbank'
+    },        
 ]
 
 const appProjects = [
