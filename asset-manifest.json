@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e3b44e45.css",
-    "main.js": "/portfolio/static/js/main.08ed3d87.js",
+    "main.css": "/portfolio/static/css/main.33819a8d.css",
+    "main.js": "/portfolio/static/js/main.ba675996.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/portfolio_beatbank.PNG": "/portfolio/static/media/portfolio_beatbank.d1ccffe876ef49c066e7.PNG",
     "static/media/portfolio_library.PNG": "/portfolio/static/media/portfolio_library.67481293bc00ec639647.PNG",
-    "static/media/porfolio_ucth.PNG": "/portfolio/static/media/porfolio_ucth.01e6aa364dccaced7868.PNG",
     "static/media/portfolio_verionx.PNG": "/portfolio/static/media/portfolio_verionx.95ef68ad131e04e5687a.PNG",
     "static/media/FiraCode.ttf": "/portfolio/static/media/FiraCode.195a5963e89a1ff0cf03.ttf",
     "static/media/Ephesis.ttf": "/portfolio/static/media/Ephesis.9d76794a944a1f234087.ttf",
-    "static/media/projects_habithack.jpeg": "/portfolio/static/media/projects_habithack.e670574e8c02f93229f9.jpeg",
-    "static/media/logo.png": "/portfolio/static/media/logo.c3b8b80199393a2df26c.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.d43188320b589702342a.png",
+    "static/media/projects_habitQuest.jpeg": "/portfolio/static/media/projects_habitQuest.4700968cc50b00166d43.jpeg",
+    "static/media/projects_leash.jpeg": "/portfolio/static/media/projects_leash.8ae52e33f6528730ec19.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.e3b44e45.css.map": "/portfolio/static/css/main.e3b44e45.css.map",
-    "main.08ed3d87.js.map": "/portfolio/static/js/main.08ed3d87.js.map",
+    "main.33819a8d.css.map": "/portfolio/static/css/main.33819a8d.css.map",
+    "main.ba675996.js.map": "/portfolio/static/js/main.ba675996.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3b44e45.css",
-    "static/js/main.08ed3d87.js"
+    "static/css/main.33819a8d.css",
+    "static/js/main.ba675996.js"
   ]
 }
